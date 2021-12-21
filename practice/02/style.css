@@ -1,0 +1,26 @@
+#container {
+  text-align: center;
+}
+
+.btn {
+  display: inline-block;
+  background-color: #000000;
+  color: #ffffff;
+  -webkit-box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+          box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+  border: 1px solid #000000;
+  padding: 10px 40px;
+  margin: 50px 0;
+  font-weight: 600;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.btn:hover {
+  background-color: #ffffff;
+  color: #000000;
+  -webkit-box-shadow: inset 5px 5px 5px rgba(0, 0, 0, 0.5);
+          box-shadow: inset 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+/*# sourceMappingURL=style.css.map */
